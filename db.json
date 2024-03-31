@@ -7,7 +7,7 @@
     "pets": 1,
     "extras": {
       "catering": false,
-      "music": false,
- }
+      "music": false
+    }
   }
 }
